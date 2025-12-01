@@ -19,22 +19,22 @@ Credenciales de prueba (no incluyas la cuenta de josue)
 
 - Sales (ejemplo de cuenta prueba)
   - Email: `sales@halcon.com`
-  - Contraseña: `sales123`
+  - Contraseña: `admin123`
   - Rol: `Sales`
 
 - Purchasing
   - Email: `purchasing@halcon.com`
-  - Contraseña: `purchasing123`
+  - Contraseña: `admin123`
   - Rol: `Purchasing`
 
 - Warehouse
   - Email: `warehouse@halcon.com`
-  - Contraseña: `warehouse123`
+  - Contraseña: `admin123`
   - Rol: `Warehouse`
 
 - Route
   - Email: `route@halcon.com`
-  - Contraseña: `route123`
+  - Contraseña: `admin123`
   - Rol: `Route`
 
 Notas importantes
